@@ -1,4 +1,5 @@
-![banner](./banner.png)
+![banner](./banner.png)  
+![views](https://komarev.com/ghpvc/?username=LooLzzz&color=green)
 
 ## About Me 💁‍♂️
 
