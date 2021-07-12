@@ -30,6 +30,7 @@ For my resume, [click here](https://drive.google.com/file/d/1tCOA-ZcDMRNccePv69f
 ![js](https://img.icons8.com/color/32/000000/javascript--v1.png)
 ![css](https://img.icons8.com/color/32/000000/css3.png)
 ![node.js](https://img.icons8.com/color/35/000000/nodejs.png)
+![mongodb](https://img.icons8.com/color/35/000000/mongodb.png)
 ![react](https://img.icons8.com/officexs/32/000000/react.png)
 ![flask](https://img.icons8.com/ios/35/ffffff/flask.png)
 ![git](https://img.icons8.com/color/32/000000/git.png)
