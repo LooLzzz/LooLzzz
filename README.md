@@ -15,8 +15,9 @@ For my resume, [click here](https://drive.google.com/file/d/1tCOA-ZcDMRNccePv69f
   * [MagicDex Desktop](https://github.com/LooLzzz/magicdex-desktop)
   * [MagicDex Web](https://github.com/LooLzzz/magicdex-web)
   * [MagicDex Server](https://github.com/LooLzzz/magicdex-server)
-* Draftsim - A MERN based webapp about mtg draft/sealed simulations.  
-  * [Link](https://github.com/LooLzzz/mtg-draftsim)
+* Checkers - A bash shell based checkers game written in C.  
+  With different colors for each player, singleplayer or multiplayer mode and an AI based on the Negamax alg and Zobrist hashing.  
+  * [Link](https://github.com/LooLzzz/checkers)
 * Parallel implimention of sequence alignment score using cuda+omp+mpi.
   * [Link](https://github.com/LooLzzz/parallel-sequence-alignment-score)
 
