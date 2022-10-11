@@ -15,6 +15,7 @@ For my resume, [click here](https://drive.google.com/file/d/11T3U3dh5E80y2KO_87j
   * [MagicDex Desktop](https://github.com/LooLzzz/magicdex-desktop)
   * [MagicDex Web](https://github.com/LooLzzz/magicdex-web)
   * [MagicDex Server](https://github.com/LooLzzz/magicdex-server)
+  * [Video example](https://user-images.githubusercontent.com/8081213/195080193-718686a4-4e7c-4034-9b1f-19ec2303041b.mp4)
 * Checkers - A bash shell based checkers game written in C.  
   With different colors for each player, singleplayer or multiplayer mode and an AI based on the Negamax alg and Zobrist hashing.  
   * [Link](https://github.com/LooLzzz/checkers)
