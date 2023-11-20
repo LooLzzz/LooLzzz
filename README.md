@@ -6,7 +6,7 @@
 My name is Noam Levi, I'm a software engineer, a developer and a gamer at heart.  
 You're welcome to explore my profile and projects.
 
-For my resume, [click here](https://drive.google.com/file/d/11T3U3dh5E80y2KO_87juNQHveumID6aK/view?usp=sharing).
+For my resume, [click here](https://drive.google.com/file/d/1cY4iZiepFwAUlLaSyZ1vsTD_p_q0IfX0/view?usp=sharing).
 
 ## Projects [![GitHub followers](https://img.shields.io/github/followers/LooLzzz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LooLzzz?tab=followers)
 
