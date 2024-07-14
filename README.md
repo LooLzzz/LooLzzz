@@ -1,5 +1,7 @@
+![views](https://komarev.com/ghpvc/?username=LooLzzz&color=green)  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/loolzzz)
+
 ![banner](./banner.png)  
-![views](https://komarev.com/ghpvc/?username=LooLzzz&color=green)
 
 ## About Me 💁‍♂️
 
