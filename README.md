@@ -12,6 +12,9 @@ For my resume, [click here](https://drive.google.com/file/d/1cY4iZiepFwAUlLaSyZ1
 
 ## Projects [![GitHub followers](https://img.shields.io/github/followers/LooLzzz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LooLzzz?tab=followers)
 
+* Docking Station - A webapp service for managing and updating your docker containers.
+  Built using Nextjs and FastAPI.
+  * [Repo](https://github.com/LooLzzz/docking-station/)
 * MagicDex - A project about managing user's collection of mtg trading cards and auto-detecting physical mtg cards shown via live video feed using computer vision techniques.  
   Written as a monorepo using [nx-workspace](https://nx.dev/).  
   Using Next.js (React+Node), NextAuth.js, MantineUI, Supabase (PostgreSQL), FastAPI, OpenCV, and many more technologies.
@@ -21,8 +24,6 @@ For my resume, [click here](https://drive.google.com/file/d/1cY4iZiepFwAUlLaSyZ1
 * Checkers - A bash shell based checkers game written in C.  
   With different colors for each player, singleplayer or multiplayer mode and an AI based on the Negamax alg and Zobrist hashing.  
   * [Repo](https://github.com/LooLzzz/checkers)
-* Parallel implimention of sequence alignment score using cuda+omp+mpi.
-  * [Repo](https://github.com/LooLzzz/parallel-sequence-alignment-score)
 
 ## Tech 🔧
 
@@ -43,7 +44,6 @@ For my resume, [click here](https://drive.google.com/file/d/1cY4iZiepFwAUlLaSyZ1
 ### Softwares and IDEs 🧾
 
 ![vscode](https://img.icons8.com/fluent/32/000000/visual-studio-code-2019.png)
-![intellij idea](https://img.icons8.com/color/32/000000/intellij-idea.png)
 <img alt="windows terminal" src="https://raw.githubusercontent.com/microsoft/terminal/master/res/terminal.ico" width="32px" />
 ![photoshop](https://img.icons8.com/color/32/000000/adobe-photoshop--v1.png)
 
